@@ -37,7 +37,7 @@ publishDir = "../"
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "Advanced Topics in Analysis, Code, Architecture, Mathematics, and Abtractions Group"
+  homeSubtitle = "Advanced Topics in Analysis, Code, Architecture, Mathematics, and Abtractions"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
